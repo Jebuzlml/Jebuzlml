@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hola! Soy Sebastian Espinoza 👋
+Backend Developer apasionado por el aprendizaje y la exploración de nuevas tecnologías. Especializado en Java y Spring Boot, estoy constantemente buscando ampliar mis conocimientos y adaptarme a los últimos avances en el desarrollo de software.
 
-<!--
-**Jebuzlml/Jebuzlml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso 
+- Java
+- Spring Boot
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- Git
+- Postman
+## Estoy trabajando en
+- Refactorizando el backend de un sistema de gestión de vacunas 
+- Creacion de una aplicacion encargada de gestionar compra y venta de inmuebles
+- Creacion de mi pagina web personal
+##  Actualmente estoy aprendiendo
+- DevOps
+- Golang
+- MongoDB
+- Angular
+## Puedes encontrarme en
+- [LinkedIn](https://www.linkedin.com/in/jebuzdev/)
